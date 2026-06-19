@@ -2,7 +2,7 @@
 
 # Hey, I'm Adarsh Sahu 👋
 
-**Backend Engineer · Java Spring Boot · Microservices · AI Integration**
+**Backend Engineer · Java Spring Boot · Microservices · Python · Machine Learning · AI Integration**
 
 *B.Tech Data Science @ Baderia Global Institute of Engineering and Management (2024–2028)*
 
@@ -17,14 +17,15 @@
 
 ## 🧠 Who Am I?
 
-I architect **high-performance backend systems** using the Java ecosystem and integrate **Generative AI** into real production workflows — not just demos.
+I architect **high-performance backend systems** using the Java ecosystem, build **Machine Learning pipelines** in Python, and integrate **Generative AI** into real production workflows — not just demos.
 
 I'm not interested in just making things work. I want them to be **scalable, fault-tolerant, and production-ready** from day one.
 
 - 🔭 Currently building: **Distributed microservices + AI-driven process automation**
 - 🧩 Deep diving into: **Saga patterns, CQRS, RAG pipelines, LLM fine-tuning**
-- 💡 Ask me about: **Spring Boot, Kafka, Docker, Spring AI, System Design**
-- ⚡ Fun fact: I debug distributed systems for fun. Yes, really.
+- 🐍 Python side: **ML model building, data pipelines, scikit-learn, pandas, numpy**
+- 💡 Ask me about: **Spring Boot, Kafka, Docker, Spring AI, ML, System Design**
+- ⚡ Fun fact: I debug distributed systems AND tune ML models for fun. Yes, really.
 
 ---
 
@@ -43,10 +44,18 @@ I'm not interested in just making things work. I want them to be **scalable, fau
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### AI / ML
+### 🤖 AI / ML & Data Science
+![Python](https://img.shields.io/badge/Python_(ML)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Patterns-FF6B35?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Infrastructure & Databases
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -122,12 +131,27 @@ I'm not interested in just making things work. I want them to be **scalable, fau
 
 ---
 
+## 🧬 ML / AI Expertise Breakdown
+
+| Area | What I Work With |
+|------|-----------------|
+| 📊 **Data Science** | Pandas, NumPy, Matplotlib, Seaborn — EDA to insight |
+| 🤖 **Machine Learning** | scikit-learn — classification, regression, clustering, pipelines |
+| 🧠 **Deep Learning** | TensorFlow, Keras — neural networks, model training & evaluation |
+| 🔍 **Generative AI** | RAG pipelines, LangChain, Spring AI, LLM prompt engineering |
+| 🔗 **AI + Backend** | Embedding AI models into Java microservices for production use |
+
+> I don't just call APIs — I understand what's happening inside the model.
+
+---
+
 ## 🌱 Currently Mastering
 
 ```
 📦 Distributed Systems    →  Saga pattern, CQRS, eventual consistency
 ☁️  Cloud Native          →  Advanced Kubernetes, Service Mesh (Istio)
 🤖 LLM Operations        →  Fine-tuning, RAG pipeline optimization for enterprise
+🧪 ML Engineering         →  Model deployment, MLOps, feature stores
 ```
 
 ---
