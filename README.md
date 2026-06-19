@@ -107,9 +107,11 @@ I'm not interested in just making things work. I want them to be **scalable, fau
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshSahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshSahu&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=adarshsahu&theme=tokyonight&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=adarshsahu&theme=tokyonight&no-frame=true&row=1)
 
 </div>
 
