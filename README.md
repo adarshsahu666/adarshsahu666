@@ -102,50 +102,43 @@ public class AdarshSahu {
 
 ---
 
-## 📊 Performance & Stats
+
+## 📊 Stats & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=adarshsahu666&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=Maximux&theme=dark" alt="LeetCode Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-### 🏆 LeetCode Highlights (**Maximux**)
-- **Problems Solved:** 116+
-- **Expertise:** 69 Medium / 11 Hard problems mastered.
-- **Top Tags:** Array, String, Hash Table, Dynamic Programming.
+### 🏆 LeetCode — Maximux
 
+<img src="https://leetcard.jacoblin.cool/Maximux?theme=dark&font=Fira+Code&ext=contest"/>
+
+<br/><br/>
+
+| 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active Days | 🔥 Max Streak | 📬 Submissions |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **116** | **36** | **69** | **11** | **93** | **11** | **315** |
+
+<br/>
 ---
 
 ## 🌱 Currently Mastering
-- 🏗️ **Distributed Systems:** Fault tolerance and consistency patterns (Saga, CQRS).
-- ☁️ **Cloud Native:** Advanced Kubernetes orchestration and Service Mesh (Istio).
-- 🤖 **LLM Operations:** Fine-tuning and optimizing RAG pipelines for enterprise data.
+  🏗️ **Distributed Systems:** Fault tolerance and consistency patterns (Saga, CQRS).
+  ☁️ **Cloud Native:** Advanced Kubernetes orchestration and Service Mesh (Istio).
+  🤖 **LLM Operations:** Fine-tuning and optimizing RAG pipelines for enterprise data.
 
----
 
-## 📫 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/adarshsahu" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sahuadarsh96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Maximux/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</p>
 
----
-<p align="center">
-  <i>"Building scalable systems that bridge human creativity with machine intelligence."</i><br>
-  <strong>Let's innovate together!</strong>
-</p>
+## 📫 Let's Connect
+
+<div align="center">
+
+*Always open to discussing backend architecture, AI/ML integration, or ambitious projects.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-sahu-7b03a2242/)
+[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahuadarsh96@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode_@Maximux-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Maximux/)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD3F7,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+
+</div>
