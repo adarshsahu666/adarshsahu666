@@ -2,38 +2,81 @@
   <img src="./animated_banner.svg" width="100%" alt="Adarsh Sahu Banner" />
 </p>
 
-# Hi 👋, I'm Adarsh Sahu
-### Backend Engineer | Java Spring Boot | Microservices | AI Integration Specialist
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Java+Spring+Boot+%7C+Microservices;AI+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Systems+%E2%9A%A1" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
-
-## 🚀 About Me
-I am a **Software Engineer** pursuing my **B.Tech in Data Science** (2024-2028). I specialize in architecting high-performance backend systems using the **Java ecosystem** and integrating **Generative AI** into production workflows.
-
-- 🎓 **Education:** B.Tech in Data Science at Baderia Global Institute of Engineering and Management.
-- 🔭 **Currently working on:** Distributed microservices and AI-driven process automation.
-- 🧠 **Focus areas:** Scalable Backend Architectures, RAG Patterns, and Event-Driven Systems.
-- ⚡ **Commitment:** Delivering robust, secure, and developer-centric software solutions.
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-- **Languages:** Java (17/21), Python, C++, SQL, JavaScript (ES6+)
-- **Backend:** Spring Boot, Spring Cloud, Hibernate ORM, RESTful APIs, JWT Auth
-- **AI/ML:** Spring AI, RAG (Retrieval-Augmented Generation), LangChain integration
-- **Infrastructure:** Docker, Kubernetes, Apache Kafka, Git, GitHub Actions
-- **Databases:** MySQL, PostgreSQL, Redis, MongoDB
+## 🧠 About Me
+ 
+```java
+public class AdarshSahu {
+ 
+    String   name      = "Adarsh Sahu";
+    String   degree    = "B.Tech Data Science (2024-2028)";
+    String   college   = "Baderia Global Institute of Engineering & Management";
+    String[] roles     = { "Backend Engineer", "ML Engineer", "AI Integration Specialist" };
+    String[] currently = { "Distributed Microservices", "AI-Driven Automation", "RAG Pipelines" };
+    String[] mastering = { "Saga Pattern", "CQRS", "MLOps", "LLM Fine-tuning" };
+ 
+    String motto() {
+        return "Build systems that don't just work — build systems that SURVIVE. ⚡";
+    }
+} 
+```
+---
+### ☕ Languages
+![Java](https://img.shields.io/badge/Java%2017%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### 🚀 Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ 
+### 🤖 AI / ML & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+ 
+### ⚙️ Infrastructure & Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+ 
 
 ---
 
