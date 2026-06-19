@@ -1,108 +1,151 @@
-<p align="center">
-  <img src="./github_banner.png" width="100%" alt="Adarsh Sahu Banner" />
-</p>
-
-# Hi 👋, I'm Adarsh Sahu
-### Backend Engineer | Java Spring Boot | Microservices | AI Integration Specialist
-
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🚀 About Me
-I am a **Software Engineer** pursuing my **B.Tech in Data Science** (2024-2028). I specialize in architecting high-performance backend systems using the **Java ecosystem** and integrating **Generative AI** into production workflows.
-
-- 🎓 **Education:** B.Tech in Data Science at Baderia Global Institute of Engineering and Management.
-- 🔭 **Currently working on:** Distributed microservices and AI-driven process automation.
-- 🧠 **Focus areas:** Scalable Backend Architectures, RAG Patterns, and Event-Driven Systems.
-- ⚡ **Commitment:** Delivering robust, secure, and developer-centric software solutions.
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Java (17/21), Python, C++, SQL, JavaScript (ES6+)
-- **Backend:** Spring Boot, Spring Cloud, Hibernate ORM, RESTful APIs, JWT Auth
-- **AI/ML:** Spring AI, RAG (Retrieval-Augmented Generation), LangChain integration
-- **Infrastructure:** Docker, Kubernetes, Apache Kafka, Git, GitHub Actions
-- **Databases:** MySQL, PostgreSQL, Redis, MongoDB
-
----
-
-## 📌 Featured Projects
-
-### 🔹 AI-Powered Fitness Tracking Platform
-*Scalable microservices ecosystem providing personalized workout intelligence.*
-- **Challenge:** Creating a dynamic, personalized experience for diverse user goals.
-- **Solution:** Orchestrated **Microservices** using **Kafka** for event-driven logging and **Spring AI** for real-time recommendation generation.
-- **Tech:** Java, Spring Boot, Spring AI, Kafka, PostgreSQL, Docker.
-
-### 🔹 Secure Full-Stack E-Commerce
-*A feature-rich marketplace with high-concurrency transactional integrity.*
-- **Challenge:** Handling secure payments and user session management at scale.
-- **Solution:** Integrated **Stripe API** for payments and implemented **JWT-based Role-Based Access Control (RBAC)**.
-- **Tech:** Java, Spring Boot, React.js, MySQL, JWT, Stripe.
-
-### 🔹 Resilient Email Notification Service
-*An asynchronous notification engine designed for zero-message-loss.*
-- **Challenge:** Ensuring email delivery despite downstream provider instability.
-- **Solution:** Built an async pipeline using **Kafka** with sophisticated **retry mechanisms** and dead-letter queues.
-- **Tech:** Java, Spring Boot, Kafka, MySQL.
-
----
-
-## 📊 Performance & Stats
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=adarshsahu666&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=Maximux&theme=dark" alt="LeetCode Stats" />
-      </td>
-    </tr>
-  </table>
+
+# Hey, I'm Adarsh Sahu 👋
+
+**Backend Engineer · Java Spring Boot · Microservices · AI Integration**
+
+*B.Tech Data Science @ Baderia Global Institute of Engineering and Management (2024–2028)*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
 </div>
 
-### 🏆 LeetCode Highlights (**Maximux**)
-- **Problems Solved:** 116+
-- **Expertise:** 69 Medium / 11 Hard problems mastered.
-- **Top Tags:** Array, String, Hash Table, Dynamic Programming.
+---
+
+## 🧠 Who Am I?
+
+I architect **high-performance backend systems** using the Java ecosystem and integrate **Generative AI** into real production workflows — not just demos.
+
+I'm not interested in just making things work. I want them to be **scalable, fault-tolerant, and production-ready** from day one.
+
+- 🔭 Currently building: **Distributed microservices + AI-driven process automation**
+- 🧩 Deep diving into: **Saga patterns, CQRS, RAG pipelines, LLM fine-tuning**
+- 💡 Ask me about: **Spring Boot, Kafka, Docker, Spring AI, System Design**
+- ⚡ Fun fact: I debug distributed systems for fun. Yes, really.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### AI / ML
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Patterns-FF6B35?style=for-the-badge&logoColor=white)
+
+### Infrastructure & Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ AI-Powered Fitness Tracking Platform
+> Personalized workout intelligence at scale using event-driven microservices
+
+**The Problem:** Generic fitness apps give the same plan to everyone. Real users have diverse goals and need dynamic personalization.
+
+**What I Built:** A microservices ecosystem where Kafka handles event-driven logging between services, and Spring AI generates real-time personalized workout recommendations based on user activity patterns.
+
+**Stack:** `Java` `Spring Boot` `Spring AI` `Apache Kafka` `PostgreSQL` `Docker`
+
+---
+
+### 🛒 Secure Full-Stack E-Commerce Platform
+> High-concurrency transactions with enterprise-grade security
+
+**The Problem:** Payment processing and session management break down at scale without the right architecture.
+
+**What I Built:** Stripe-integrated payment flows with JWT-based Role-Based Access Control (RBAC), designed to handle high-concurrency without sacrificing security or data integrity.
+
+**Stack:** `Java` `Spring Boot` `React.js` `MySQL` `JWT` `Stripe API`
+
+---
+
+### 📧 Resilient Email Notification Service
+> Async notification engine with zero-message-loss guarantee
+
+**The Problem:** Email providers go down. A brittle notification system means lost messages and angry users.
+
+**What I Built:** An async pipeline using Kafka with retry mechanisms and dead-letter queues — if delivery fails, no message is ever truly lost.
+
+**Stack:** `Java` `Spring Boot` `Apache Kafka` `MySQL`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 LeetCode Progress
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest)
+
+</div>
+
+| Metric | Count |
+|--------|-------|
+| ✅ Problems Solved | **116+** |
+| 🟡 Medium | **69** |
+| 🔴 Hard | **11** |
+| 🏷️ Top Tags | Array · HashMap · DP · Trees |
 
 ---
 
 ## 🌱 Currently Mastering
-- 🏗️ **Distributed Systems:** Fault tolerance and consistency patterns (Saga, CQRS).
-- ☁️ **Cloud Native:** Advanced Kubernetes orchestration and Service Mesh (Istio).
-- 🤖 **LLM Operations:** Fine-tuning and optimizing RAG pipelines for enterprise data.
+
+```
+📦 Distributed Systems    →  Saga pattern, CQRS, eventual consistency
+☁️  Cloud Native          →  Advanced Kubernetes, Service Mesh (Istio)
+🤖 LLM Operations        →  Fine-tuning, RAG pipeline optimization for enterprise
+```
 
 ---
 
-## 📫 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/adarshsahu" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sahuadarsh96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Maximux/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</p>
+## 📫 Let's Connect
+
+I'm always open to discussing **backend architecture, AI integration, or ambitious projects**.
+
+> "Build systems that don't just work — build systems that *survive*."
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
-<p align="center">
-  <i>"Building scalable systems that bridge human creativity with machine intelligence."</i><br>
-  <strong>Let's innovate together!</strong>
-</p>
+
+<div align="center">
+
+*Profile views counter (optional):*
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
+</div>
