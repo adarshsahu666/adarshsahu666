@@ -22,24 +22,29 @@
 
 </div>
 
----
 
-## 🧠 About Me
- 
 ```java
 public class AdarshSahu {
- 
+
     String   name      = "Adarsh Sahu";
     String   degree    = "B.Tech Data Science (2024-2028)";
     String   college   = "Baderia Global Institute of Engineering & Management";
-    String[] roles     = { "Backend Engineer", "ML Engineer", "AI Integration Specialist" };
-    String[] currently = { "Distributed Microservices", "AI-Driven Automation", "RAG Pipelines" };
+
+    // ── Core Expertise ──────────────────────────────────────────
+    String[] primaryStack = { "Java 17/21", "Spring Boot", "Microservices", "React.js" };
+    String[] backendSkills = { "REST APIs", "JWT Auth", "Kafka", "Docker", "PostgreSQL" };
+
+    // ── Additional Skills ────────────────────────────────────────
+    String[] additionalStack = { "Python", "Machine Learning", "Spring AI", "RAG Pipelines" };
+
+    // ── Currently ────────────────────────────────────────────────
+    String[] building  = { "Distributed Microservices", "AI-Driven Automation" };
     String[] mastering = { "Saga Pattern", "CQRS", "MLOps", "LLM Fine-tuning" };
- 
+
     String motto() {
         return "Build systems that don't just work — build systems that SURVIVE. ⚡";
     }
-} 
+}
 ```
 ---
 ### ☕ Languages
@@ -118,14 +123,29 @@ public class AdarshSahu {
 | **116** | **36** | **69** | **11** | **93** | **11** | **315** |
 
 <br/>
----
 
 ## 🌱 Currently Mastering
-  🏗️ **Distributed Systems:** Fault tolerance and consistency patterns (Saga, CQRS).
-  ☁️ **Cloud Native:** Advanced Kubernetes orchestration and Service Mesh (Istio).
-  🤖 **LLM Operations:** Fine-tuning and optimizing RAG pipelines for enterprise data.
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/Saga%20Pattern%20%26%20CQRS-Intermediate-00C2FF?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Kubernetes%20%26%20Istio-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
+<br><br>
+
+<img src="https://img.shields.io/badge/LLM%20Fine--tuning-Intermediate-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+
+<img src="https://img.shields.io/badge/RAG%20Pipeline%20Optimization-Intermediate-FF6B35?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+
+<img src="https://img.shields.io/badge/MLOps%20%26%20Deployment-Beginner-28A745?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Service%20Mesh%20(Istio)-Learning-1F6FEB?style=for-the-badge&labelColor=0d1117" />
+
+</p>
 
 ## 📫 Let's Connect
 
